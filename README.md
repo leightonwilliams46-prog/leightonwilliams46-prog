@@ -1,47 +1,50 @@
 # Hi, I'm Leighton 👋
 
 I'm a data-focused professional with experience in operational analytics, KPI reporting and performance dashboards across global quality and accreditation functions.  
-I currently work with Python, Power BI and Excel to clean data, build models and create visual insights that support decision-making across EMEA, US and APAC regions.
+I use Python, Power BI and Excel to clean data, build models and create clear visual insights that support decision-making.
 
-I'm also completing an MSc in Data Analytics, where I'm strengthening my skills in statistical analysis, data governance and Python development.
+I'm also completing an MSc in Data Analytics (77% average), strengthening my skills in Python, data governance and statistical analysis.
 
 ---
 
 ## 🔧 Tools & Skills
-- **Python:** Pandas, Matplotlib, Seaborn, Jupyter  
-- **Power BI:** Data modelling, DAX, Power Query, KPI dashboards  
-- **Data:** Cleaning, reshaping, merging, transformation  
-- **Excel:** Power Query, Power Pivot, automation  
-- **Other:** Microsoft 365, SharePoint, SOP/process documentation  
+
+- **Python:** Pandas, Matplotlib, Seaborn, Jupyter Notebook  
+- **Power BI:** Data modelling, DAX, Power Query, report design  
+- **Excel:** Power Query, Power Pivot, advanced formulas  
+- **Data:** Cleaning, transformation, merging multi-table datasets  
+- **Other:** Microsoft 365, SharePoint, process documentation, KPI design  
 
 ---
 
-## 📊 Portfolio Projects
+## 📁 Portfolio Projects
 
-### **Faulty Medical Devices – Data Analysis (Python)**
+### 🔹 Faulty Medical Devices – Data Analysis (Python)
 End‑to‑end analysis of global faulty medical device event data.  
-Includes data cleaning, merging multi-table datasets, trend analysis and visualisation, all documented in a Jupyter notebook.
+Includes cleaning, merging three linked datasets, visualisation and interpretations relevant to post‑market surveillance.
 
-🔗 Repo: [faulty-medical-devices-analysis](https://github.com/leightonwilliams46-prog/faulty-medical-devices-analysis)
+🔗 Repo: https://github.com/leightonwilliams46-prog/faulty-medical-devices-analysis
 
 ---
 
-### **Operational Performance Dashboard (Power BI)**
-Power BI dashboard visualising multi‑year workload, turnaround efficiency and KPI performance across global regions.  
-Includes data model, Power Query steps and dashboard screenshots.
+### 🔹 Operational Performance Dashboard (Power BI)
+A Power BI dashboard covering multi‑year operational workload, turnaround efficiency and KPI performance.  
+Includes the data model, DAX measures, query transformations and screenshots.
 
-🔗 Repo: [powerbi-operational-performance-dashboard](https://github.com/leightonwilliams46-prog/powerbi-operational-performance-dashboard)
+🔗 Repo: https://github.com/leightonwilliams46-prog/powerbi-operational-performance-dashboard
 
 ---
 
 ## 🎓 Current Focus
-- Building additional Python projects  
-- Improving SQL skills  
-- Completing MSc Data Analytics  
-- Expanding my Power BI portfolio  
+
+- Building more Python projects  
+- Continuing MSc Data Analytics  
+- Developing SQL capability  
+- Expanding Power BI portfolio  
 
 ---
 
 ## 📫 Connect
+
 📧 leighton.williams@bsigroup.com  
-🔗 [LinkedIn](https://linkedin.com/in/leightonrwilliams)
+🔗 https://www.linkedin.com/in/leightonrwilliams
