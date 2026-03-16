@@ -1,6 +1,7 @@
 # Hi, I'm Leighton 👋
 
-I'm a data-focused professional with experience in operational analytics, KPI reporting and performance dashboards across global quality and accreditation functions.  
+I'm a data-focused professional with experience in operational analytics, KPI reporting and performance dashboards across global quality and accreditation functions.
+
 I use Python, Power BI and Excel to clean data, build models and create clear visual insights that support decision-making.
 
 I'm also completing an MSc in Data Analytics (77% average), strengthening my skills in Python, data governance and statistical analysis.
