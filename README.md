@@ -1,4 +1,5 @@
-<img src="PASTE-YOUR-IMAGE-LINK-HERE" alt="Leighton Williams Banner" width="100%">
+<img src="[https://github.com/leightonwilliams46-prog/leightonwilliams46-prog/blob/main/Designer.png?raw=true]" alt="Leighton Williams Banner" width="100%">
+``
 
 # Hi, I’m Leighton 👋
 
