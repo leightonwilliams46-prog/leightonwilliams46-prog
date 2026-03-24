@@ -1,5 +1,4 @@
 <img src="PASTE-YOUR-IMAGE-LINK-HERE" alt="Leighton Williams Banner" width="100%">
-``
 
 # Hi, I’m Leighton 👋
 
