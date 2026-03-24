@@ -1,3 +1,6 @@
+<img src="PASTE-YOUR-IMAGE-LINK-HERE" alt="Leighton Williams Banner" width="100%">
+``
+
 # Hi, I’m Leighton 👋
 
 I work in data and analytics, mainly supporting global quality and accreditation teams. Most of my work involves digging into operational data, building KPI reports, and creating dashboards that actually help people understand what's happening, not just look good on screen.
