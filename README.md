@@ -1,6 +1,6 @@
 # Hi, I’m Leighton 👋
 
-I work in data and analytics, mainly supporting global quality and accreditation teams. Most of my work involves digging into operational data, building KPI reports, and creating dashboards that actually help people understand what's happening — not just look good on screen.
+I work in data and analytics, mainly supporting global quality and accreditation teams. Most of my work involves digging into operational data, building KPI reports, and creating dashboards that actually help people understand what's happening, not just look good on screen.
 
 I use Python, Power BI and Excel to clean data, build models, and turn messy information into something clear and useful. I’m also studying for an MSc in Data Analytics (currently averaging 77%), which is helping me deepen my skills in Python, governance, and statistical methods.
 
@@ -45,7 +45,7 @@ I built the data model, wrote the DAX measures, transformed the source data, and
 
 ## 📫 Connect
 
-📧 **leighton.williams@bsigroup.com**  
+📧 **leightonwilliams46@googlemail.com**  
 🔗 **https://www.linkedin.com/in/leightonrwilliams**
 
 ---
