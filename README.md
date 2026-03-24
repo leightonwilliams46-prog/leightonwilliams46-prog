@@ -1,51 +1,51 @@
-# Hi, I'm Leighton 👋
+# Hi, I’m Leighton 👋
 
-I'm a data-focused professional with experience in operational analytics, KPI reporting and performance dashboards across global quality and accreditation functions.
+I work in data and analytics, mainly supporting global quality and accreditation teams. Most of my work involves digging into operational data, building KPI reports, and creating dashboards that actually help people understand what's happening — not just look good on screen.
 
-I use Python, Power BI and Excel to clean data, build models and create clear visual insights that support decision-making.
-
-I'm also completing an MSc in Data Analytics (77% average), strengthening my skills in Python, data governance and statistical analysis.
+I use Python, Power BI and Excel to clean data, build models, and turn messy information into something clear and useful. I’m also studying for an MSc in Data Analytics (currently averaging 77%), which is helping me deepen my skills in Python, governance, and statistical methods.
 
 ---
 
 ## 🔧 Tools & Skills
 
-- **Python:** Pandas, Matplotlib, Seaborn, Jupyter Notebook  
-- **Power BI:** Data modelling, DAX, Power Query, report design  
-- **Excel:** Power Query, Power Pivot, advanced formulas  
-- **Data:** Cleaning, transformation, merging multi-table datasets  
-- **Other:** Microsoft 365, SharePoint, process documentation, KPI design  
+**Python:** Pandas, Matplotlib, Seaborn, Jupyter  
+**Power BI:** Data modelling, DAX, Power Query, dashboard/report design  
+**Excel:** Power Query, Power Pivot, advanced formulas  
+**Data Work:** Cleaning, transformation, merging multi-table datasets  
+**Other:** Microsoft 365, SharePoint, process documentation, KPI design  
 
 ---
 
 ## 📁 Portfolio Projects
 
-### 🔹 Faulty Medical Devices – Data Analysis (Python)
-End‑to‑end analysis of global faulty medical device event data.  
-Includes cleaning, merging three linked datasets, visualisation and interpretations relevant to post‑market surveillance.
+### 🔹 Faulty Medical Devices – Python Analysis  
+A full analysis project exploring global faulty medical device event data.  
+I cleaned and merged three related datasets, explored trends, and built visualisations to support post‑market surveillance work.
 
-🔗 Repo: https://github.com/leightonwilliams46-prog/faulty-medical-devices-analysis
+🔗 **Repo:** https://github.com/leightonwilliams46-prog/faulty-medical-devices-analysis
 
 ---
 
-### 🔹 Operational Performance Dashboard (Power BI)
-A Power BI dashboard covering multi‑year operational workload, turnaround efficiency and KPI performance.  
-Includes the data model, DAX measures, query transformations and screenshots.
+### 🔹 Operational Performance Dashboard – Power BI  
+A multi‑year dashboard showing operational workload, turnaround performance and KPI trends.  
+I built the data model, wrote the DAX measures, transformed the source data, and included screenshots of the final dashboard.
 
-🔗 Repo: https://github.com/leightonwilliams46-prog/powerbi-operational-performance-dashboard
+🔗 **Repo:** https://github.com/leightonwilliams46-prog/powerbi-operational-performance-dashboard
 
 ---
 
 ## 🎓 Current Focus
 
-- Building more Python projects  
-- Continuing MSc Data Analytics  
-- Developing SQL capability  
-- Expanding Power BI portfolio  
+- Building out more Python projects  
+- Continuing my MSc in Data Analytics  
+- Developing stronger SQL skills  
+- Expanding my Power BI portfolio  
 
 ---
 
 ## 📫 Connect
 
-📧 leighton.williams@bsigroup.com  
-🔗 https://www.linkedin.com/in/leightonrwilliams
+📧 **leighton.williams@bsigroup.com**  
+🔗 **https://www.linkedin.com/in/leightonrwilliams**
+
+---
