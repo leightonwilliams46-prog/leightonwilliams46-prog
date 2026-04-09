@@ -9,7 +9,7 @@
 
 I'm a data‑driven professional with experience in **operational analytics, KPI reporting and performance insight** across global Quality & Accreditation functions. 
 
-Alongside my role, I am studying for a **Master’s degree in Data Analytics with the University of Huddersfield (Distance Learning)** — fully self‑funded and completed in my own time. I’m currently averaging **70%+ across my first 3.5 modules**, with modules covering Python, statistical modelling, data governance, predictive analytics and visualisation.
+Alongside my role, I am studying for a **Master’s degree in Data Analytics with the University of Huddersfield (Distance Learning)** (fully self‑funded and completed in my own time). I’m currently averaging **70%+ across my first 3.5 modules**, with modules covering Python, statistical modelling, data governance, predictive analytics and visualisation.
 
 I have a **keen eye for detail**, enjoy spotting **patterns and trends**, and thrive when turning messy data into something organised, visual and actionable.
 
