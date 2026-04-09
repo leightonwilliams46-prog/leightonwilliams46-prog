@@ -4,6 +4,29 @@
 
 ---
 
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="images/profile.jpg" 
+           width="160" 
+           style="border-radius: 50%; object-fit: cover;">
+    </td>
+    <td>
+
+### 👨‍💻 About Me
+
+I'm a data‑driven professional with experience in operational analytics, KPI reporting and performance insight across global Quality & Accreditation functions.
+
+I am currently studying for a **Master’s degree in Data Analytics** with the University of Huddersfield (Distance Learning), fully self‑funded and completed in my own time. I am averaging **70%+ across my first 3.5 modules**, strengthening my skills in Python, statistical analysis, data modelling and data governance.
+
+I enjoy working with data, spotting patterns and trends, and turning complex information into clear insight.  
+I am now seeking a **Data Analyst or Junior Data Analyst role** to apply my skills in a professional data team.
+
+    </td>
+  </tr>
+</table>
+``
+
 <!-- PROFILE INTRO -->
 ### 👨‍💻 About Me
 
