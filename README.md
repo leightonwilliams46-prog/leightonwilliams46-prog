@@ -25,7 +25,6 @@ I am now seeking a **Data Analyst or Junior Data Analyst role** to apply my skil
     </td>
   </tr>
 </table>
-``
 
 <!-- PROFILE INTRO -->
 ### 👨‍💻 About Me
