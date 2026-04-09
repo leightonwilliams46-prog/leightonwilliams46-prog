@@ -4,14 +4,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="images/profile.jpg" 
-           width="160" 
-           style="border-radius: 50%; object-fit: cover;">
-   
-
 <!-- PROFILE INTRO -->
 ### 👨‍💻 About Me
 
