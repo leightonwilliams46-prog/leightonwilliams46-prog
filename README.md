@@ -78,17 +78,6 @@ Trend analysis, visualisation and a simple regression model using stock‑market
 
 ---
 
-<!-- GITHUB STATS -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leightonwilliams46-prog&show_icons=true&theme=blueberry" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leightonwilliams46-prog&layout=compact&theme=blueberry" />
-</p>
-``
-
----
-
 ### 🎓 Current Focus
 
 - Completing my **MSc in Data Analytics** (8‑module programme — 3.5 completed, averaging 70%+)  
