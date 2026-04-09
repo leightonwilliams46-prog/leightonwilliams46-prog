@@ -81,10 +81,11 @@ Trend analysis, visualisation and a simple regression model using stock‑market
 <!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  ![Leighton's GitHub stats](https://github-readme-stats.vercel.app/api?username=leightonwilliams46-prog&show_icons=true&theme
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leightonwilliams46-prog&layout=compact
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=leightonwilliams46-prog&show_icons=true&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leightonwilliams46-prog&layout=compact&theme=
 
 ---
 
