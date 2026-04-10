@@ -20,7 +20,7 @@ I have a **keen eye for detail**, enjoy spotting **patterns and trends**, and th
 - Build clean, reliable datasets (Python, SQL, Excel)
 - Create dashboards that highlight what matters (Power BI)
 - Analyse operational performance: throughput, turnaround, backlog, demand trends
-- Tell clear data stories—executive-ready and focused on business impact
+- Tell clear data stories, executive-ready and focused on business impact
 
 ## What I’m working on
 I'm building a portfolio of analytical projects that reflect real operational scenarios:
