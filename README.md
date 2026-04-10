@@ -37,6 +37,6 @@ I'm building a portfolio of analytical projects that reflect real operational sc
 - **Git/GitHub**
 
 ## What I’m looking for
-A Data Analyst or Junior Data Analyst role where I can apply the operational analytics mindset I’ve developed—focusing on throughput, efficiency, performance trends, and clear communication.
+A Data Analyst or Junior Data Analyst role where I can apply the operational analytics mindset I’ve developed, focusing on throughput, efficiency, performance trends, and clear communication.
 
 If your team values insight over noise, we’ll get on well.
